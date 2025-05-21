@@ -1,0 +1,19 @@
+1)Linux
+basics of linux based system
+  1)file system,system basic commands,
+
+2)aws services like ,vpc,ec2,subnets,cloudwatch,s3,security groups,ebs
+
+3)Terraform - modules,statefile,variable,block,attributes,resources,
+
+4)Docker - container,images,network,volumes,compose,dockerfile,docker hub
+
+5)kubernetes - pods,deployments,services,namespaces,helm chart,yaml file,configmaps
+
+6)git and github - basic git and github commands like,add,commit,push,pull,merge,create repository,creating sub branches,mergining to main branch
+
+7)jenkins -
+
+8)ansible - 
+
+9)grafana and prometheus - 
